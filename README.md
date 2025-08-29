@@ -1,9 +1,9 @@
 ### Hi there 👋
-- 👋 Hi, I’m Ali Daho
-- 🌱 Currently making Reinforcement Learning Agent to play Tic Tac Toe Game. 
-- 👀 Soon there will be more projects involving ML, DL, RL, and BlockChain. ^^ 
-- 📫 You can reach me through <a href="mailto:ari.dahoa@gmail.com">ari.dahoa@gmail.com</a>
-- ⚡ Fun fact: My Dream is to replace tasks and jobs through automation and maybe General AI.
+- 👋 Hi, I’m Ali Daho your polymath friend.
+- 🌱 Currently working on https://www.Vowayage.com/ to automate travel planning. 
+- 👀 I love reading books about psychology, philosophy and research about AI, and Mathematics. 
+- 📫 You can reach me through <a href="mailto:ali.moh.ldb@gmail.com">ali.moh.ldb@gmail.com</a>
+- ⚡ Fun fact: My goal is to advance AI in the field of tourism, education, and people effeciency. 
 
 <!--
 **ldbtech/ldbtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
